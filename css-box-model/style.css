@@ -1,0 +1,45 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Card section */
+.card {
+    background-color: white;
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+/* Button styling */
+button {
+    padding: 10px 15px;
+    border: none;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkcyan;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #555;
+}
